@@ -1,4 +1,4 @@
-# Lab 1: GCP
+# Lab 1 : GCP
 
 ## Compute Engine
 

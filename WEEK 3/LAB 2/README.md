@@ -1,4 +1,4 @@
-# Lab 4: Manage Packages and Services on a Linux VM (Azure or AWS)
+# Lab 2: Manage Packages and Services on a Linux VM (Azure or AWS)
 
 1. Create a Linux VM
 2. Install the Apache Web Server
